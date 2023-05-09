@@ -20,5 +20,5 @@ targetCustomizations:
         replicaCount: 1
         host: cow-demo.18.156.197.223.sslip.io
         cow:
-          color: green
+          color: red
     clusterName: demo
