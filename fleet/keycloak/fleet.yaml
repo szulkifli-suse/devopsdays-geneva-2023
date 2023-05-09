@@ -8,4 +8,4 @@ helm:
   # TODO: replace your@own.email with your email address
   values:
     registration:
-      emailAddress: your@own.email
+      emailAddress: shamsul.zulkifli@suse.com
