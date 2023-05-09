@@ -30,5 +30,5 @@ targetCustomizations:
             enabled: true
           manager:
             ingress:
-              host: neuvector.13.215.178.25.sslip.io
+              host: neuvector.13.215.178.25.nip.io
     clusterName: demo
