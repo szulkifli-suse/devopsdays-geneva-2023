@@ -1,5 +1,5 @@
 # ref: https://github.com/devpro/helm-charts/tree/main/charts/cow-demo
-defaultNamespace: sample-apps
+defaultNamespace: default
 helm:
   repo: https://devpro.github.io/helm-charts
   chart: cow-demo
@@ -18,7 +18,7 @@ targetCustomizations:
     helm:
       values:
         replicaCount: 1
-        host: cow-demo.18.156.197.223.sslip.io
+        host: cow-demo.18.156.197.223.nip.io
         cow:
           color: green
     clusterName: demo
