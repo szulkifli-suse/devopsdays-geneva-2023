@@ -18,7 +18,7 @@ targetCustomizations:
     helm:
       values:
         replicaCount: 1
-        host: cow-demo.18.156.197.223.nip.io
+        host: cow-demo-ingress.default.54.251.133.47.nip.io
         cow:
           color: blue
     clusterName: k8s-dc-cyberjaya
