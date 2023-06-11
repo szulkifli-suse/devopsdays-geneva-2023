@@ -20,5 +20,5 @@ targetCustomizations:
         replicaCount: 1
         host: cow-demo.18.156.197.223.nip.io
         cow:
-          color: green
-    clusterName: demo
+          color: black
+    clusterName: k8s-dc-cyberjaya
