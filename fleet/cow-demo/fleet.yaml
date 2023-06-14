@@ -20,5 +20,5 @@ targetCustomizations:
         replicaCount: 2
         host: cow-demo-ingress.default.54.251.133.47.nip.io
         cow:
-          color: yellow
+          color: red
     clusterName: k8s-dc-cyberjaya
